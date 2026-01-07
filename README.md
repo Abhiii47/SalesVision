@@ -2,7 +2,7 @@
 
 SalesVision is a sales analytics dashboard I built using Flask and Vanilla JS. The goal was to create a clean, modern interface to visualize sales data from a SQLite database and simulate a real-time activity feed.
 
-![SalesVision Dashboard](https://via.placeholder.com/1200x600.png?text=SalesVision+Dashboard+Preview)
+
 
 ## Features
 
